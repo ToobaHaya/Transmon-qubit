@@ -1,0 +1,17 @@
+Enter EC (default=1.0): 1
+Enter EJ (default=20.0): 20
+Enter n_max (default=30): 30
+Enter simulation time (default=1.0): 1
+
+Using parameters: EC = 1.0, EJ = 20.0, n_max = 30, time = 1.0
+
+Energy differences (from eigvalsh):
+Level 0 → 1: ΔE = 11.5548
+Level 1 → 2: ΔE = 10.0995
+Level 2 → 3: ΔE = 9.6640
+Level 3 → 4: ΔE = 3.7233
+
+
+Final state probabilities (1-qubit, from IBM backend):
+|0>: 0.6670
+|1>: 0.3330
